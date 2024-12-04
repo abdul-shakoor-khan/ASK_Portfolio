@@ -2,44 +2,30 @@
 export let projects = [
   {
     // Project 1 details
-    link: "https://github.com/abdul-shakoor-khan",
-    image: "images/flixx-pic.png",
+    link: "https://github.com/abdul-shakoor-khan/eCommerce-Website-",
+    image: "images/shakoor/00_shakoor.png",
     caption_heading: "Ecommerce Website",
-    caption_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam dolores esse"
+    caption_description: "A fully responsive eCommerce website built with HTML, CSS, JavaScript, Swiper.js for interactive sliders, and Day.js for accurate delivery date calculations and management."
   },
   {
     // Project 2 details
-    link: "https://github.com/abdul-shakoor-khan",
-    image: "images/flixx-pic.png",
-    caption_heading: "Ecommerce Website",
-    caption_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam dolores esse"
+    link: "https://github.com/abdul-shakoor-khan/TMDB_Movies",
+    image: "images/tmdb/00_tmdb.png",
+    caption_heading: "TMDB Movie",
+    caption_description: "A responsive TMDB web app built with HTML, CSS, JavaScript, and ShapeDivider for design, featuring TMDB API integration to search, explore, and display detailed movie and TV show information dynamically."
   },
   {
     // Project 3 details
     link: "https://github.com/abdul-shakoor-khan",
-    image: "images/flixx-pic.png",
-    caption_heading: "Ecommerce Website",
-    caption_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam dolores esse"
+    image: "images/university/00_university.png",
+    caption_heading: "University",
+    caption_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam dolores esse sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam."
   },
   {
     // Project 4 details
-    link: "https://github.com/abdul-shakoor-khan",
-    image: "images/flixx-pic.png",
-    caption_heading: "Ecommerce Website",
-    caption_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam dolores esse"
-  },
-  {
-    // Project 5 details
-    link: "https://github.com/abdul-shakoor-khan",
-    image: "images/laptop.png",
-    caption_heading: "Ecommerce Website",
-    caption_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam dolores esse"
-  },
-  {
-    // Project 6 details
-    link: "https://github.com/abdul-shakoor-khan",
-    image: "images/laptop.png",
-    caption_heading: "Ecommerce Website",
-    caption_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam dolores esse"
+    link: "https://github.com/abdul-shakoor-khan/freecodecamp_projects",
+    image: "images/freecodecamp/00_freecodecamp.png",
+    caption_heading: "Freecodecamp",
+    caption_description: "This repository contains projects from the freeCodeCamp Responsive Web Design Certification. It demonstrates foundational web development skills using HTML and CSS to create accessible, responsive layouts."
   },
 ]
