@@ -19,7 +19,7 @@ export let projects = [
     link: "https://github.com/abdul-shakoor-khan",
     image: "images/university/00_university.png",
     caption_heading: "University",
-    caption_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam dolores esse sit amet consectetur adipisicing elit. Ullam itaque voluptate quisquam."
+    caption_description: "A responsive and interactive university website built with React.js. Features such as: Home, Program, About us, Campus, Testimonials, Contact"
   },
   {
     // Project 4 details

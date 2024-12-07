@@ -44,8 +44,8 @@ downloadButton.addEventListener('click', () => {
   // Create an array of file objects with 'name' (filename) and 'url' (file path or URL) properties
   const files = [
     {
-      name: 'shakoor.pdf',
-      url: '../demo/Paper one.pdf',
+      name: 'my-resume.pdf',
+      url: 'images/pdf/my-resume.pdf',
     }
   ]
 

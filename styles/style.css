@@ -702,6 +702,10 @@ li {
     font-size: 3rem;
   }
 
+  .portfolio-project .portfolio-caption .caption-icon {
+    display: none;
+  }
+
   /* Contact Styling */
   .contact-top .contact-top-heading.h2 {
     font-size: 3rem;
@@ -931,6 +935,18 @@ li {
 
   .portfolio-project {
     flex: 1 28rem;
+  }
+
+  .portfolio-caption .caption-icon {
+    font-size: 2.2rem;
+  }
+
+  .portfolio-caption-heading {
+    font-size: 1.4rem;
+  }
+
+  .portfolio-caption-description {
+    font-size: 1.2rem;
   }
 
   /* Contact Styling */
